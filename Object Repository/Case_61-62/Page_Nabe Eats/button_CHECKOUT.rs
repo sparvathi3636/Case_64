@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CHECKOUT</name>
+   <tag></tag>
+   <elementGuidId>382b773b-4ea1-4a5f-9821-9bfc32cbb348</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.w3-margin-left.w3-white.fw-700.oncheck.mat-stroked-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fbd2612-2697-403f-81d6-170b1ec69e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e82dc11e-b6da-499b-94b0-a560678a823a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w3-margin-left w3-white fw-700 oncheck mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>d8f668ff-46c5-4b86-93c0-4cf7e1c53bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CHECKOUT </value>
+      <webElementGuid>debcc09c-5f37-45fa-9a48-5136dc363a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-padding footer hide_in_Mobile_only ipadPro ng-star-inserted&quot;]/div[@class=&quot;mtop-5&quot;]/div[@class=&quot;w3-row w3-margin-top w3-center ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator w3-margin-left w3-white fw-700 oncheck mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>0d58d836-7770-450f-b515-4d4a1e198c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>8781f46c-00a5-4a7a-b04c-b1def14837c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[3]/div[5]/div[2]/button</value>
+      <webElementGuid>55767dd0-1f3f-465b-9a33-6160ceaf8882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹82.82'])[3]/following::button[1]</value>
+      <webElementGuid>7ac6ca4d-67ab-4ce7-a106-a86565a4d095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRAND TOTAL :'])[1]/following::button[1]</value>
+      <webElementGuid>a811078e-dc8f-4a02-bd2b-edfebf612c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breakfast'])[14]/preceding::button[1]</value>
+      <webElementGuid>1c3d1460-f996-4a77-b8e0-9d9950226882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>c2d1dabd-5025-420a-82bd-0b8fcf3b8f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' CHECKOUT ' or . = ' CHECKOUT ')]</value>
+      <webElementGuid>99cb34e8-a93a-49ac-a6ab-594c7b548d68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

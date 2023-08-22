@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pick-up</name>
+   <tag></tag>
+   <elementGuidId>3862ca63-9408-49db-925d-df126581ed80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-modeselection-popup/div/div/div[2]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.w3-btn.w3-text-white.modeSelectionButton.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1a80dfcc-29aa-42af-8dc3-f5a780a6d329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w3-btn w3-text-white modeSelectionButton mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>27dadde4-bfbc-4101-96bf-28f1faf1f3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pick-up</value>
+      <webElementGuid>0d003f03-3ac7-4322-a681-cee167844d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-modeselection-popup[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;containar&quot;]/div[@class=&quot;w3-col modeSelection&quot;]/div[@class=&quot;w3-row w3-center&quot;]/button[@class=&quot;mat-focus-indicator w3-btn w3-text-white modeSelectionButton mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>f513a532-a740-436f-afcc-b3232f9252ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-modeselection-popup/div/div/div[2]/div[3]/button</value>
+      <webElementGuid>dc3842ac-3ab4-4483-9014-410f3accaa35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery'])[1]/following::button[1]</value>
+      <webElementGuid>ed0fa99c-37c9-4502-84be-964375756c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>43df2b59-8318-4dd4-9825-70bb55adf903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pick-up' or . = 'Pick-up')]</value>
+      <webElementGuid>efe1b9ab-e8ce-46a4-b425-624607a35d83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Next Available  FRI 530PM-1145PM</name>
+   <tag></tag>
+   <elementGuidId>1dcb05fd-a782-4d38-97cf-172df6f53a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div[2]/div/div[2]/div[2]/div[3]/mat-card/div/div/div/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c97a19fa-76fe-479c-bd49-9ce07489f7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>6675bb26-c55c-4d69-911b-a2838d9c0ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Next Available : FRI 5:30PM-11:45PM </value>
+      <webElementGuid>4657ae9a-66a1-43bb-b18b-d965b3757645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-container w-100 ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle tempalte2 ng-star-inserted&quot;]/div[@class=&quot;menu_Scroll1 cartDivHeightTemplate2 show&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;hide_cart_inMobile ng-star-inserted&quot;]/div[@class=&quot;custom-slider-main&quot;]/div[@class=&quot;info-box res_happyHoursMenu bonusHourCard ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator happHoursMenu_inIpad matcardBackgroundImage ng-star-inserted&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;menuDetailBox&quot;]/div[@class=&quot;w3-col s9 fullWidthForBonusHourMenus&quot;]/div[@class=&quot;w3-row happyHoursMenuRes&quot;]/div[@class=&quot;w3-col s9&quot;]/p[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>727b7398-2bfb-4756-a637-7bba2a06df8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div[2]/div/div[2]/div[2]/div[3]/mat-card/div/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>0d70be72-5984-4586-8743-3c98822520e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹30.99'])[1]/following::p[1]</value>
+      <webElementGuid>1bab35ea-fb4d-4d91-9b38-ce82f6aa3473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD'])[13]/following::p[3]</value>
+      <webElementGuid>47e239ee-3169-4706-bb04-b898fcf994d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BONUS HOUR'])[2]/preceding::p[1]</value>
+      <webElementGuid>ef3e1c5d-175f-4ade-b6ae-08747ad11afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹10.99'])[1]/preceding::p[2]</value>
+      <webElementGuid>6c7e0c10-3af1-45c9-acdf-e134e987f6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next Available : FRI 5:30PM-11:45PM']/parent::*</value>
+      <webElementGuid>e8d11744-bc91-4495-b3c2-d66414c3aea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>e03cfe74-34c9-46a6-ab7c-5b829ea3ee73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Next Available : FRI 5:30PM-11:45PM ' or . = ' Next Available : FRI 5:30PM-11:45PM ')]</value>
+      <webElementGuid>165a3d2f-3e92-458d-81f6-f6647345991d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

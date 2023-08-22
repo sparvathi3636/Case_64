@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_shopping_cart Place Order (1)</name>
+   <tag></tag>
+   <elementGuidId>000c56a6-9dc6-47b6-8fd9-324a6ee238de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollto']/div[3]/div[5]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-button.mat-button-base.mat-focus-indicator.oncheck-out.placeOrderBtnInFooter.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a50f46c-ceb6-4a30-b3ee-5a3c477aa91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button mat-button-base mat-focus-indicator oncheck-out placeOrderBtnInFooter cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>c6307fdd-00ed-4790-9aaf-ead2c005e4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>shopping_cart Place Order (1) </value>
+      <webElementGuid>b7abeee5-932d-498e-a2da-6be354b53d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-padding footer hide_in_Mobile_only ipadPro ng-star-inserted&quot;]/div[@class=&quot;mtop-5&quot;]/div[@class=&quot;w3-row ng-star-inserted&quot;]/button[@class=&quot;mat-button mat-button-base mat-focus-indicator oncheck-out placeOrderBtnInFooter cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>6511d026-c71a-4000-8962-1948349f6973</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[3]/div[5]/div[2]/button</value>
+      <webElementGuid>da4944d7-81d8-4e6b-ba24-047a69ec476a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹43.99'])[6]/following::button[1]</value>
+      <webElementGuid>381834d1-ddff-455f-bb05-15cd0679cca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRAND TOTAL :'])[1]/following::button[1]</value>
+      <webElementGuid>590d8f7b-b86b-4e2e-a25f-d7cc4a1a8abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breakfast'])[14]/preceding::button[1]</value>
+      <webElementGuid>3aebd083-4058-46e3-9f4f-561ad7ea43fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>ca3e12bc-c30d-4a7e-b517-bc074abd8cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'shopping_cart Place Order (1) ' or . = 'shopping_cart Place Order (1) ')]</value>
+      <webElementGuid>6caeb626-5375-4c41-9eb2-5d91af430603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

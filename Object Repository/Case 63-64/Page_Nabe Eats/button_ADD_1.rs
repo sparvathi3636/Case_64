@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ADD_1</name>
+   <tag></tag>
+   <elementGuidId>db5b572d-839a-4506-9434-7c39f204373b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fb4ad77f-802a-4320-8dbc-c917d79d2e42']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fb4ad77f-802a-4320-8dbc-c917d79d2e42</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51c2f5df-93ca-4c3d-a232-7a65d0eb2997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator menuAddButton inMobMenuAddBtn mat-raised-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>4c063f39-184f-4b39-9c2f-50d8224b69be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fb4ad77f-802a-4320-8dbc-c917d79d2e42</value>
+      <webElementGuid>acec0443-6c13-4fb2-80ca-429bd016a268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ADD </value>
+      <webElementGuid>e179688d-ce45-475f-891e-eab275ac0828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-container w-100 ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle tempalte2 ng-star-inserted&quot;]/div[@class=&quot;menu_Scroll1 cartDivHeightTemplate2 show&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;menu_Scroll_old show&quot;]/div[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator inMobMenuCard hide_in_Mobile_only ng-star-inserted&quot;]/div[@class=&quot;w3-row menuMainBox&quot;]/div[@class=&quot;w3-col s9 menuDetailBox inMobile_menuBox&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-col s9&quot;]/button[@id=&quot;fb4ad77f-802a-4320-8dbc-c917d79d2e42&quot;]</value>
+      <webElementGuid>55ee1b30-5848-408e-bd18-b9611196c7ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='fb4ad77f-802a-4320-8dbc-c917d79d2e42']</value>
+      <webElementGuid>a245cebc-e0a8-4f3c-9a4a-a41b3d024a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div[2]/div[3]/div/div/div[2]/div/mat-card/div/div/div[2]/div/button</value>
+      <webElementGuid>21da1cb5-d887-4d49-a193-1fef5e2276cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU ITEMS'])[2]/following::button[1]</value>
+      <webElementGuid>94d7d549-f222-4146-b7b8-dc5bd487fa46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD'])[15]/following::button[1]</value>
+      <webElementGuid>db60ab3a-9a91-405c-806f-6e6467d98a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹33.25'])[2]/preceding::button[1]</value>
+      <webElementGuid>5e6404d1-2763-4269-9b28-f523fae3fa9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/mat-card/div/div/div[2]/div/button</value>
+      <webElementGuid>45aa160a-9044-40cc-ad16-daa392949937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'fb4ad77f-802a-4320-8dbc-c917d79d2e42' and (text() = ' ADD ' or . = ' ADD ')]</value>
+      <webElementGuid>0973a8f8-99ac-4cfe-90f1-9c15099dbb47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

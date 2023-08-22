@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Review Cart shopping_cart (2)</name>
+   <tag></tag>
+   <elementGuidId>7e4d3ebc-59fc-4f36-818a-5b60f9ef6823</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div/div/div[4]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.w3-text-white.inMobileFilterBtn.mat-stroked-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cce1ef1f-2a89-434e-8ec7-d48542838277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w3-text-white inMobileFilterBtn mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>004ef1c6-acea-4373-97a8-b6693de4c014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Review Cart shopping_cart (2) </value>
+      <webElementGuid>61ee0ebe-c5bf-461c-81c7-f12612f283c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-container w-100 ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle tempalte2 ng-star-inserted&quot;]/div[@class=&quot;menu_Scroll1 cartDivHeightTemplate2 show&quot;]/div[@class=&quot;MenuIteamsTop&quot;]/div[1]/div[@class=&quot;w3-row hide_in_Mobile_only&quot;]/div[@class=&quot;w3-full w3-container&quot;]/div[@class=&quot;selcMenu inMobile_Filter hide_in_Mobile_only ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator w3-text-white inMobileFilterBtn mat-stroked-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>fb6a5ad3-747e-42f2-9d59-e7f10f90a78c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div/div/div[4]/div/div/button</value>
+      <webElementGuid>129cb668-91f3-43c4-9d86-95852d34cdb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLEAR'])[2]/following::button[1]</value>
+      <webElementGuid>8c723ce1-e6c2-4cf3-82f3-2e9bc56f111d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[2]</value>
+      <webElementGuid>c30832a9-4723-4824-956c-8c790f6fd354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BONUS HOUR'])[1]/preceding::button[2]</value>
+      <webElementGuid>4df048b2-e45f-4d76-ace4-a8e205342549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>1701f688-7ef7-4fea-a59d-10ab742ccfdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Review Cart shopping_cart (2) ' or . = ' Review Cart shopping_cart (2) ')]</value>
+      <webElementGuid>16e4c163-507b-485f-aa67-3eaa49f4c21d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

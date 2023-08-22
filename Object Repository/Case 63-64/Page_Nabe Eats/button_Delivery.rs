@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delivery</name>
+   <tag></tag>
+   <elementGuidId>bacb49bb-0f83-4059-abe9-73c7d72e181e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-modeselection-popup/div/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.w3-btn.w3-text-white.modeSelectionButton.mat-raised-button.mat-button-base.cdk-focused.cdk-program-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdc621a2-85ff-4395-95a5-26f76ec80d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w3-btn w3-text-white modeSelectionButton mat-raised-button mat-button-base cdk-focused cdk-program-focused</value>
+      <webElementGuid>7580fda0-456d-4fef-9595-3f001692ca99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delivery</value>
+      <webElementGuid>2dbe6313-3b8c-4bb5-9161-68fe100dbdc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-modeselection-popup[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;containar&quot;]/div[@class=&quot;w3-col modeSelection&quot;]/div[@class=&quot;w3-row w3-center&quot;]/button[@class=&quot;mat-focus-indicator w3-btn w3-text-white modeSelectionButton mat-raised-button mat-button-base cdk-focused cdk-program-focused&quot;]</value>
+      <webElementGuid>94bf864f-ec2b-4bc5-b322-c063d23e53a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-modeselection-popup/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>9f65be85-9f2c-4cbf-b603-0c79bc7ad257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLEAR'])[1]/following::button[3]</value>
+      <webElementGuid>dc4eb7c0-fd90-4f12-9a9d-dd8dd75c500f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick-up'])[1]/preceding::button[1]</value>
+      <webElementGuid>e797e4f7-6682-458b-b03f-4fea4b0d088c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-modeselection-popup/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>030dec01-b8ea-4a90-a5ae-c1f526786ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Delivery' or . = 'Delivery')]</value>
+      <webElementGuid>94e4cf8f-4191-4e98-a4a2-ff8832add1b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

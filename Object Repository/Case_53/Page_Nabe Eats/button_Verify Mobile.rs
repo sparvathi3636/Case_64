@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verify Mobile</name>
+   <tag></tag>
+   <elementGuidId>8dec693d-d9e4-49da-8fea-c3ed2164f67f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-raised-button.mat-button-base.mat-focus-indicator.w3-round.w3-text-white.w3-block.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b0327d29-dc04-4e16-935e-81eb5a5d9215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>30076998-16dd-4439-af9b-6debf8be37c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-raised-button mat-button-base mat-focus-indicator w3-round w3-text-white w3-block cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>6f8b4896-1667-4a5c-87f8-fdee69f807a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify Mobile</value>
+      <webElementGuid>ca66c126-b9d4-4a7c-ae31-39eb5e5d35d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;snav&quot;)/div[@class=&quot;mat-drawer-inner-container ng-tns-c101-0&quot;]/app-guestsignin[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sign-in-up&quot;]/form[@class=&quot;sign-in-form ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/button[@class=&quot;mat-raised-button mat-button-base mat-focus-indicator w3-round w3-text-white w3-block cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>adb79fee-512a-4d75-843a-7ddb43bff703</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>f628cc6c-fdb3-4fc5-8227-d8533f924256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-sidenav[@id='snav']/div/app-guestsignin/div/form/button</value>
+      <webElementGuid>f7c5eae2-2d33-4aed-99fa-7603c68d1af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Mobile Number'])[1]/following::button[1]</value>
+      <webElementGuid>99c0f697-4f03-4162-b514-9e364ebcae62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='site'])[1]/following::button[1]</value>
+      <webElementGuid>88bffc74-38b2-424f-8481-1d6b68d191e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill Details'])[1]/preceding::button[2]</value>
+      <webElementGuid>22c267f1-740a-4896-bca8-4280a99728d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>63cc2955-d2e1-4e4f-8a0d-0dc28ca9c54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Verify Mobile' or . = 'Verify Mobile')]</value>
+      <webElementGuid>36e4cfb7-a2ba-4f2a-9d73-e6c133f7fc7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

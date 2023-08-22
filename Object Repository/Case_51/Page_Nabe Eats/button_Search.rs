@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>a0e910c5-aa30-4a50-b0af-23a53c5b7e6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/app-selectdeliveryaddress/div[2]/div[3]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.search-bg.hide_inMobile_orderNow-old.mat-flat-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>290fb124-c917-4077-8fab-81353effa8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator search-bg hide_inMobile_orderNow-old mat-flat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>31ba2418-6384-45f2-a3d2-b57cfa8f7561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Search </value>
+      <webElementGuid>e8375c85-dcea-448c-9912-d8b9f4c020e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-1&quot;)/app-selectdeliveryaddress[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-padding inMobAddGapRmv&quot;]/div[1]/button[@class=&quot;mat-focus-indicator search-bg hide_inMobile_orderNow-old mat-flat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>b0b609f1-a319-4591-813e-82bd5f356207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/app-selectdeliveryaddress/div[2]/div[3]/div/button</value>
+      <webElementGuid>6433d5a2-5802-406d-9ee9-44269a639883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Land Mark'])[1]/following::button[1]</value>
+      <webElementGuid>c483a556-0429-429e-95dd-6544d10305d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartment No.'])[1]/following::button[1]</value>
+      <webElementGuid>29f3e354-3066-486f-9013-fc745841d5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>ad8af8c4-f590-4eb1-8ec6-933b9c8f01b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Search ' or . = ' Search ')]</value>
+      <webElementGuid>6544bcfe-38ee-401d-b485-1f0af9fc8394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

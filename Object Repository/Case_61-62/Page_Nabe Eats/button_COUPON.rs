@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_COUPON</name>
+   <tag></tag>
+   <elementGuidId>e853288d-1d44-42c8-9e16-a66a1cf24d30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.w3-block.fw-700.cpn_css.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86987ea3-fc22-4bad-8339-58fcc7eab9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>17c78402-f1e5-48af-a6aa-730eadb4c7a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w3-block fw-700 cpn_css mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>a4e08500-cd78-4b90-b483-9503682d2241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> COUPON </value>
+      <webElementGuid>d7212132-386f-4dd7-9111-d30c0a03bd5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-full-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content page-wrapper&quot;]/app-restaurant[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container example-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-drawer[@class=&quot;mat-drawer hide_in_Mobile_only ng-tns-c98-1 ng-trigger ng-trigger-transform ng-star-inserted mat-drawer-over mat-drawer-end mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c98-1&quot;]/div[@class=&quot;category_Scroll3 ng-tns-c98-1&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w3-padding hide_in_Mobile_only&quot;]/div[@class=&quot;inMobileCartSec w-100&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-col&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-col&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator w3-block fw-700 cpn_css mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>f2c6b794-ca45-4cb2-b8ef-8961bb6a7db0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>0c50796e-7ba2-4c65-8b89-d8b704df4145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendations'])[1]/following::button[1]</value>
+      <webElementGuid>d39442ee-c298-4116-ab55-dd1b2e1d10b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bill Details'])[1]/following::button[1]</value>
+      <webElementGuid>e1fe2ec3-e3b1-4a6d-a659-230ea768628f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIP @ 15%'])[1]/preceding::button[1]</value>
+      <webElementGuid>cd02c508-6982-4dc2-8496-ad1c4bc15f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>aeb832d4-aaa0-45b7-8549-02398d99c743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' COUPON ' or . = ' COUPON ')]</value>
+      <webElementGuid>024e224d-1f81-413e-8eee-5f2968723b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

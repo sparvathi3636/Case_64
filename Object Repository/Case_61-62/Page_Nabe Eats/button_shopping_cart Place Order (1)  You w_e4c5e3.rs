@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_shopping_cart Place Order (1)  You w_e4c5e3</name>
+   <tag></tag>
+   <elementGuidId>cb5b848d-b80c-41ec-9c6d-4da60af740d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollto']/div[3]/div[5]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-button.mat-button-base.mat-focus-indicator.oncheck-out.placeOrderBtnInFooter.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a8abddb-ae3a-49c3-90df-3f77e61ef3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button mat-button-base mat-focus-indicator oncheck-out placeOrderBtnInFooter cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>284f729d-fec7-4a11-a07a-0adf13978c72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>shopping_cart Place Order (1)  You will save: ₹3.33 </value>
+      <webElementGuid>97b0db7c-36f4-4cf3-b876-58fe719c9553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-padding footer hide_in_Mobile_only ipadPro ng-star-inserted&quot;]/div[@class=&quot;mtop-5&quot;]/div[@class=&quot;w3-row ng-star-inserted&quot;]/button[@class=&quot;mat-button mat-button-base mat-focus-indicator oncheck-out placeOrderBtnInFooter cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>d3802f1b-6e21-4504-93d8-0cbfc7303494</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[3]/div[5]/div[2]/button</value>
+      <webElementGuid>cb541de1-92b0-4c66-a622-8d24e228295f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹39.93'])[6]/following::button[1]</value>
+      <webElementGuid>35e4037c-28a9-408c-9114-3049fee960a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRAND TOTAL :'])[1]/following::button[1]</value>
+      <webElementGuid>a61e4fb4-4b3d-47a2-83e8-5ed3621025d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>71d38d61-60fc-452e-a454-f073d9cb4bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'shopping_cart Place Order (1)  You will save: ₹3.33 ' or . = 'shopping_cart Place Order (1)  You will save: ₹3.33 ')]</value>
+      <webElementGuid>ae64d161-e5da-4d49-b05d-9ea28b727211</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

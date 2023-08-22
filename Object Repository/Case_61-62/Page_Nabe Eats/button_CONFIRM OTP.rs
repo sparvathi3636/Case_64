@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CONFIRM OTP</name>
+   <tag></tag>
+   <elementGuidId>469bd1da-bc99-4832-aede-a5bb7f041c0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.w3-round.w3-block.w3-text-white.w3-center.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e84cf83a-48af-4e72-8933-cac50c4e1093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>efde2a4e-cfa4-4087-aaab-f28a2aed112a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator w3-round w3-block w3-text-white w3-center mat-raised-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>ef27ceea-2a9d-4318-8760-b034b118da38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONFIRM OTP</value>
+      <webElementGuid>dd53ac98-f2c5-4390-85dd-72453db36be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;snav&quot;)/div[@class=&quot;mat-drawer-inner-container ng-tns-c101-0&quot;]/app-guestsignin[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sign-in-up&quot;]/div[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;sign-verify-form ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;w3-center&quot;]/div[@class=&quot;w3-block w3-center w3-margin-top&quot;]/button[@class=&quot;mat-focus-indicator w3-round w3-block w3-text-white w3-center mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>2a92729f-de4e-4715-9d43-bff448d79c49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>7c793283-11f0-4177-80d8-d80629324130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-sidenav[@id='snav']/div/app-guestsignin/div/div[2]/form/div[2]/div[2]/button</value>
+      <webElementGuid>5421e3c8-3f8c-444d-a07b-7ed134bacdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter 7 digit One Time Password received on your mobile.'])[1]/following::button[1]</value>
+      <webElementGuid>34507291-fb45-48ba-9129-e4c5e82f8004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VERIFY OTP'])[1]/following::button[1]</value>
+      <webElementGuid>181d6475-f21e-4e25-88cf-59fa7afc645b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>ada3c9b5-36af-401b-a17e-9874f290c10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>18e3a64e-8bf5-4f0e-9732-3d9516611cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'CONFIRM OTP' or . = 'CONFIRM OTP')]</value>
+      <webElementGuid>5fa981ed-5b31-446b-b8c3-7916df3c075f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Check out as guest</name>
+   <tag></tag>
+   <elementGuidId>db677c1b-afdc-4ad5-a20f-03c7cb8539b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='reset'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button.LinkCancelPartialLoginButton--text.Button--link.Button--md.Button--fullWidth</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49add291-0761-4023-b4f7-09637f6e9b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button LinkCancelPartialLoginButton--text Button--link Button--md Button--fullWidth</value>
+      <webElementGuid>e36328f9-939f-46f0-92f3-2b2f966c2c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>reset</value>
+      <webElementGuid>657d69dd-396d-470d-b1c3-d3c7ffa7bc72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check out as guest</value>
+      <webElementGuid>784ced3c-9a53-4f71-a973-c04c01a19cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App-Container is-noBackground flex-container justify-content-center&quot;]/div[@class=&quot;App App--singleItem&quot;]/div[@class=&quot;App-Payment is-noBackground&quot;]/div[@class=&quot;CheckoutPaymentForm&quot;]/div[@class=&quot;PaymentFormFixedHeightContainer flex-container direction-column&quot;]/form[1]/div[1]/div[1]/div[1]/div[@class=&quot;LinkPaymentForm LinkPaymentForm--partialCookied flex-container spacing-12 direction-column&quot;]/div[@class=&quot;flex-item width-grow&quot;]/button[@class=&quot;Button LinkCancelPartialLoginButton--text Button--link Button--md Button--fullWidth&quot;]</value>
+      <webElementGuid>5d585c69-3e29-45ad-a0e8-269d93209663</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='reset'])[2]</value>
+      <webElementGuid>ab5b8537-c315-4b62-96fb-ea6eded0c25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/form/div/div/div/div/div[3]/button</value>
+      <webElementGuid>417ed8d8-bde1-4042-a114-7df302f7db06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Encrypted'])[1]/following::button[1]</value>
+      <webElementGuid>90be96a9-12bb-4148-be9b-743068c93b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send code to email instead'])[1]/following::button[1]</value>
+      <webElementGuid>49637993-f722-4fdb-bd73-e657ea89e4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>b27c436c-a173-4e8e-afc3-f9efbc1b5755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'reset' and (text() = 'Check out as guest' or . = 'Check out as guest')]</value>
+      <webElementGuid>66b748d6-b23a-4345-8d33-fba712dce747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

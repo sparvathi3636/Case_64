@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_coupon testing  coupon testing  19.95  ADD</name>
+   <tag></tag>
+   <elementGuidId>a2df8cbc-a24a-46de-ad00-0f80ae330948</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div[2]/div/div[2]/div[2]/div[3]/mat-card/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1284939-ae87-467a-ae9d-c792ab9f708d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w3-col s9 fullWidthForBonusHourMenus</value>
+      <webElementGuid>ec3e4073-72bd-4ecb-a372-210f36c4a0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> coupon testing  coupon testing  ₹19.95  ADD </value>
+      <webElementGuid>08d9a5ba-6a12-4281-9183-d3ba86217216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollto&quot;)/div[@class=&quot;w3-container w-100 ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle ng-star-inserted&quot;]/div[@class=&quot;inMobile_MenuTitle tempalte2 ng-star-inserted&quot;]/div[@class=&quot;menu_Scroll1 cartDivHeightTemplate2 show&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;hide_cart_inMobile ng-star-inserted&quot;]/div[@class=&quot;custom-slider-main&quot;]/div[@class=&quot;info-box res_happyHoursMenu bonusHourCard ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator happHoursMenu_inIpad matcardBackgroundImage ng-star-inserted&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;menuDetailBox&quot;]/div[@class=&quot;w3-col s9 fullWidthForBonusHourMenus&quot;]</value>
+      <webElementGuid>75dfda17-1741-4235-b371-4fd2b510e659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollto']/div[2]/div/div[3]/div/div[2]/div/div[2]/div[2]/div[3]/mat-card/div/div/div</value>
+      <webElementGuid>a0f40f5e-70c9-4c02-9180-18ac820db6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD'])[2]/following::div[6]</value>
+      <webElementGuid>4320fa72-ed69-493d-b3e7-d39cc279dccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹15.95'])[1]/following::div[9]</value>
+      <webElementGuid>6251701f-1da9-4bac-acd7-d251558784af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/mat-card/div/div/div</value>
+      <webElementGuid>9c10662e-a538-486a-a39c-cd344d42a4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' coupon testing  coupon testing  ₹19.95  ADD ' or . = ' coupon testing  coupon testing  ₹19.95  ADD ')]</value>
+      <webElementGuid>dfaf85c7-6639-427e-805f-fa5484cc7db8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

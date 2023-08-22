@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter location</name>
+   <tag></tag>
+   <elementGuidId>42308615-b1b1-4267-8f9d-71c1a7c83f35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/app-selectdeliveryaddress/div[2]/div/div/mat-form-field/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c82-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf0cc19c-a0e0-4a4c-8b74-cc6180118370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c82-6</value>
+      <webElementGuid>92652c2c-564a-440e-b0f8-1b749a5b534d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter location</value>
+      <webElementGuid>8f5254a5-7a1d-4a08-9134-feb73b5d840a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-1&quot;)/app-selectdeliveryaddress[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-padding inMobAddGapRmv&quot;]/div[@class=&quot;w3-row w3-margin-top&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c82-6 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c82-6&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c82-6&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c82-6&quot;]</value>
+      <webElementGuid>b98736d7-192a-4f17-afec-1cb3a6c58e22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/app-selectdeliveryaddress/div[2]/div/div/mat-form-field/div/div/div[4]</value>
+      <webElementGuid>8c6a7142-d0e6-4156-9437-b031f88bcb49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH DELIVERY ADDRESS'])[1]/following::div[19]</value>
+      <webElementGuid>e54acfb4-7c4e-47a3-bec4-2d290d051f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartment No.'])[1]/preceding::div[12]</value>
+      <webElementGuid>960b8b56-ef61-419b-83bc-0277549549b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div[4]</value>
+      <webElementGuid>186d9112-05da-4bee-9ba9-deb5dff14a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enter location' or . = 'Enter location')]</value>
+      <webElementGuid>d5ae6ccd-c23e-41f6-8f61-bb85ef47e6b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

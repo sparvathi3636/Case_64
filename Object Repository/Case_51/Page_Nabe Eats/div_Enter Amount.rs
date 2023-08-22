@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter Amount</name>
+   <tag></tag>
+   <elementGuidId>8000f0e3-8520-4476-9b58-03e7742e3f6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-2']/app-tip/div[4]/mat-form-field/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c82-19</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f412ae07-4313-4fc4-8e20-c2aafc8f44c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c82-19</value>
+      <webElementGuid>9dd9339f-b3b3-4e6a-ac2d-e764af9774e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter Amount</value>
+      <webElementGuid>f98454aa-c7e5-4799-9fcb-29cdacf1ce2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-2&quot;)/app-tip[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w3-row w3-center w3-margin-top&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c82-19 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c82-19&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c82-19&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c82-19&quot;]</value>
+      <webElementGuid>2da972e7-397f-4bab-9439-39f629cdf9ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-2']/app-tip/div[4]/mat-form-field/div/div/div</value>
+      <webElementGuid>36cc5001-d913-43ef-aede-0f35e734ca25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- OR --'])[1]/following::div[4]</value>
+      <webElementGuid>a73d61b6-bda8-43d5-91ac-dc8bcb46d005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select or Enter Tip Amount'])[1]/following::div[13]</value>
+      <webElementGuid>9c191d87-5fd0-4b4f-94f9-98991fb60d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter tip amount'])[1]/preceding::div[2]</value>
+      <webElementGuid>28dcda23-ce6d-492d-b163-025ed95563fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/mat-form-field/div/div/div</value>
+      <webElementGuid>74d13650-eda8-4e25-be4a-ed9439070d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enter Amount' or . = 'Enter Amount')]</value>
+      <webElementGuid>5e757b1c-4da4-4960-a9a0-7d0be09d318c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

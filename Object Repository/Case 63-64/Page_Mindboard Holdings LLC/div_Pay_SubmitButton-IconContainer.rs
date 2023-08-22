@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pay_SubmitButton-IconContainer</name>
+   <tag></tag>
+   <elementGuidId>92ad1b1e-9983-4912-8775-0dc9da89de28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/form/div[2]/div/div[2]/button/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SubmitButton-IconContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e646578d-c0fe-4a84-9573-7f580d7f6233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SubmitButton-IconContainer</value>
+      <webElementGuid>192232e4-751c-42b9-bd17-e7b6efd95d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App-Container is-noBackground flex-container justify-content-center&quot;]/div[@class=&quot;App App--singleItem&quot;]/div[@class=&quot;App-Payment is-noBackground&quot;]/div[@class=&quot;CheckoutPaymentForm&quot;]/div[@class=&quot;PaymentFormFixedHeightContainer flex-container direction-column&quot;]/form[1]/div[@class=&quot;PaymentForm-confirmPaymentContainer mt4 flex-item width-grow&quot;]/div[1]/div[@class=&quot;flex-item width-12&quot;]/button[@class=&quot;SubmitButton SubmitButton--complete&quot;]/div[@class=&quot;SubmitButton-IconContainer&quot;]</value>
+      <webElementGuid>998ec6e3-9d72-4507-a23b-eece11861941</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/form/div[2]/div/div[2]/button/div[3]</value>
+      <webElementGuid>8740d9f2-8442-444f-96d5-b8a7661395f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay'])[1]/following::div[1]</value>
+      <webElementGuid>4103173c-3dcf-4f24-9dc1-0ec2c08b4014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More info'])[1]/following::div[7]</value>
+      <webElementGuid>cfbc2a45-d143-4a00-b642-a9e044c900dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/preceding::div[20]</value>
+      <webElementGuid>2c30ebc5-edd9-4855-89f2-e4256fde406f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[3]</value>
+      <webElementGuid>2324a0b0-2e7f-4800-aa01-f07a018b0dc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Place Order 39.93 You Saved 3.33 on _94ad8e</name>
+   <tag></tag>
+   <elementGuidId>db7278ae-d674-4e02-92fa-420aa230ecda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-raised-button.mat-button-base.mat-focus-indicator.w3-block.placeOrderBtnNEw.fw-700.placeOrderBtnNew.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>70295253-30f3-4686-bef6-7bdc2229469f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d183403f-16fa-4569-86d3-915da354c42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-raised-button mat-button-base mat-focus-indicator w3-block placeOrderBtnNEw fw-700 placeOrderBtnNew cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>497d6353-b2e7-4d5a-94a8-ae08bbdada2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Place Order: ₹39.93 You Saved ₹3.33 on this order </value>
+      <webElementGuid>dfac98a6-b19b-4ae7-ac95-5402edcf75bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-full-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content page-wrapper&quot;]/app-restaurant[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container example-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-drawer[@class=&quot;mat-drawer hide_in_Mobile_only ng-tns-c98-1 ng-trigger ng-trigger-transform ng-star-inserted mat-drawer-over mat-drawer-end mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c98-1&quot;]/div[@class=&quot;category_Scroll3 ng-tns-c98-1&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w3-padding hide_in_Mobile_only&quot;]/div[@class=&quot;inMobileCartSec w-100&quot;]/div[@class=&quot;footerCart&quot;]/div[@class=&quot;w3-full&quot;]/div[@class=&quot;w3-row w3-margin-top ng-star-inserted&quot;]/div[@class=&quot;w3-row&quot;]/button[@class=&quot;mat-raised-button mat-button-base mat-focus-indicator w3-block placeOrderBtnNEw fw-700 placeOrderBtnNew cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>745b34b3-5eba-45d4-9c8c-7d549e788479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>12c66e12-a7da-49d1-9d41-e8e0cd0ca17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD'])[11]/following::button[1]</value>
+      <webElementGuid>ee92d92d-1a68-4b9d-8454-5860e00cf315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹22.00'])[3]/following::button[2]</value>
+      <webElementGuid>4db33d31-aeff-401b-92a4-bfa5ec0e2000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button</value>
+      <webElementGuid>39fab760-6ffd-45bc-bb38-a1ef7c188935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Place Order: ₹39.93 You Saved ₹3.33 on this order ' or . = ' Place Order: ₹39.93 You Saved ₹3.33 on this order ')]</value>
+      <webElementGuid>78c1e708-5ce3-42c6-a712-798d33b28d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

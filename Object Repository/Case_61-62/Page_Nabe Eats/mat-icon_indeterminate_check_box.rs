@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_indeterminate_check_box</name>
+   <tag></tag>
+   <elementGuidId>070ab5e5-87a8-48dd-b591-5601ada32964</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Veg Manchuria Bonus Hour X 1'])[1]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-icon.mat-icon.notranslate.cartquantity.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>6bea91b6-1edd-4563-ba6d-cb8d3a2986ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bb43881f-0d23-47c1-8f14-32fcf68d2c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate cartquantity material-icons mat-icon-no-color</value>
+      <webElementGuid>c863d58f-8de1-4943-85b5-6864e66f4a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4ce36167-7c9d-4eff-aeec-6263daf452e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> indeterminate_check_box</value>
+      <webElementGuid>eb53b438-ac0b-4db9-bb3f-fea3e152b61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-full-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content page-wrapper&quot;]/app-restaurant[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container example-container mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-drawer[@class=&quot;mat-drawer hide_in_Mobile_only ng-tns-c98-1 ng-trigger ng-trigger-transform ng-star-inserted mat-drawer-over mat-drawer-end mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c98-1&quot;]/div[@class=&quot;category_Scroll3 ng-tns-c98-1&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;w3-padding hide_in_Mobile_only&quot;]/div[@class=&quot;inMobileCartSec w-100&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-col&quot;]/div[3]/div[@class=&quot;category_ScrollCartMenu&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-full&quot;]/div[@class=&quot;w3-row mb-4 ng-star-inserted&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-col w3-right&quot;]/div[@class=&quot;w3-row&quot;]/div[@class=&quot;w3-col w-50&quot;]/div[@class=&quot;w3-left pre-o-s&quot;]/mat-icon[@class=&quot;mat-icon notranslate cartquantity material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>7bd0b6f8-450e-4f74-ba70-18456c965607</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Veg Manchuria Bonus Hour X 1'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>210572dd-7762-4a6b-adf4-c68fbe41984c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YOUR CART'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>95f160db-7488-4800-a1fa-0e8149b9f350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹30.99'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>c02c8dd6-096e-4143-919d-d732f05c98ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter menu instructions'])[1]/preceding::mat-icon[2]</value>
+      <webElementGuid>4a031d2b-a45b-41b2-9c66-3377c749300c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='indeterminate_check_box']/parent::*</value>
+      <webElementGuid>7b8b6aba-a3b7-417f-9437-f7c8a3fec662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/mat-icon</value>
+      <webElementGuid>49f8fbea-d80b-44eb-9719-7acbf3420f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = ' indeterminate_check_box' or . = ' indeterminate_check_box')]</value>
+      <webElementGuid>50f45a0c-14d0-480f-831a-8f1eff403f12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

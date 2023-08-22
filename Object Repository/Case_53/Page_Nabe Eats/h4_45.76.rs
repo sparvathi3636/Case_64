@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_45.76</name>
+   <tag></tag>
+   <elementGuidId>aa1b2206-5563-455f-a6c9-323c591fd03a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.w3-row.grandtotal > div.w3-col.s6.text-right > h4.m-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contentToConvert']/div/div/div[3]/div[2]/div[7]/div[2]/h4</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '₹45.76' or . = '₹45.76')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>9ab87710-b6af-4c50-99b6-4fd2aa4d508e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0</value>
+      <webElementGuid>3f8c25f7-5168-4900-919c-9efd234a207c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹45.76</value>
+      <webElementGuid>8cf75c80-391c-4225-baff-7aee6306a89e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contentToConvert&quot;)/div[@class=&quot;allorders ng-star-inserted&quot;]/div[@class=&quot;detailwithorderNo&quot;]/div[@class=&quot;w3-padding&quot;]/div[@class=&quot;order-item w3-padding&quot;]/div[@class=&quot;w3-row grandtotal&quot;]/div[@class=&quot;w3-col s6 text-right&quot;]/h4[@class=&quot;m-0&quot;]</value>
+      <webElementGuid>f5d4253a-1275-473e-8a03-99009343bb17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contentToConvert']/div/div/div[3]/div[2]/div[7]/div[2]/h4</value>
+      <webElementGuid>dbe2150c-8e7e-4f93-b250-757e652d1276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRAND TOTAL'])[1]/following::h4[1]</value>
+      <webElementGuid>d6d73a68-9a38-49be-8c6d-19c55e5ffcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- ₹0.00'])[1]/following::h4[1]</value>
+      <webElementGuid>f1aba871-9800-4347-9ece-fb028de738f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickup Date &amp; Time'])[1]/preceding::h4[1]</value>
+      <webElementGuid>e55063da-0af6-410e-b4a9-326e85f0a12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 16, 2023 11:33'])[1]/preceding::h4[1]</value>
+      <webElementGuid>bc8521d7-7dcd-437f-bf97-3121e4252adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='₹45.76']/parent::*</value>
+      <webElementGuid>40abfa86-2d25-4912-bf2c-34668a4cc946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/h4</value>
+      <webElementGuid>61a470e3-974b-4151-b0cc-38d6124bdff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '₹45.76' or . = '₹45.76')]</value>
+      <webElementGuid>b7c450a3-422b-488b-b435-aa76cb7fde55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
